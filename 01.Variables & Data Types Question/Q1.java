@@ -8,6 +8,6 @@ public class Q1 {
         float B = sc.nextFloat();
         double C = sc.nextDouble();
         double average = (A + B + C)/3;
-        System.out.println("average = " + average); 
+        System.out.println("average = " + average);
     }
 }
